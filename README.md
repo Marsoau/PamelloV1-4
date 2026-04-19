@@ -3,7 +3,7 @@
 
 All iterations from 1 through 4 were written in python, also i was just starting out with coding back then so the code quality is not the best
 
-> *Added to github just for preservation purposes, not intended to be used by anyone, unlike a newer [PamelloV7](https://github.com/Marsoau/PamelloV7)*
+> *Added to github just for preservation purposes, not intended for public usage, unlike a newer [PamelloV7](https://github.com/Marsoau/PamelloV7)*
 
 ## Bot
 **1st iteration of Pamello**
@@ -32,3 +32,7 @@ First iteration with song episodes
 This iteartion was just a rewrite of P30 but better in some cases, ended up using P30 anyways
 
 > *Date of initial creation: **February 2023***
+
+---
+
+**Next iteration:** [PamelloV5](https://github.com/Marsoau/PamelloV5)
